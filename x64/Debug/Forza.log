@@ -1,2 +1,5 @@
-﻿  3주차(2).c
+﻿  gmw3_3.c
+C:\Users\chaei\Desktop\보름달\포르자\포르자_과제\Forza\Forza\gmw3_3.c(12,37): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\chaei\Desktop\보름달\포르자\포르자_과제\Forza\Forza\gmw3_3.c(22,34): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\chaei\Desktop\보름달\포르자\포르자_과제\Forza\Forza\gmw3_3.c(22,55): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
   Forza.vcxproj -> C:\Users\chaei\Desktop\보름달\포르자\포르자_과제\Forza\x64\Debug\Forza.exe

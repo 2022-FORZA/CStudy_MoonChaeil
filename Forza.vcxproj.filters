@@ -111,40 +111,40 @@
     <ClCompile Include="여름방학12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1주차%281%29.c">
+    <ClCompile Include="gmw1_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1주차(2).c">
+    <ClCompile Include="gmw1_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1주차(3).c">
+    <ClCompile Include="gmw1_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1주차(4).c">
+    <ClCompile Include="gmw1_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2주차(1).c">
+    <ClCompile Include="gmw2_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2주차(2).c">
+    <ClCompile Include="gmw2_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2주차(3).c">
+    <ClCompile Include="gmw2_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2주차(4).c">
+    <ClCompile Include="gmw2_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3주차(1).c">
+    <ClCompile Include="gmw3_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3주차(2).c">
+    <ClCompile Include="gmw3_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3주차(3).c">
+    <ClCompile Include="gmw3_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3주차(4).c">
+    <ClCompile Include="gmw3_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
