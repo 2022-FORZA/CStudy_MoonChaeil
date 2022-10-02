@@ -7,7 +7,7 @@ int main() {
 	scanf("%d", &num);
 	for (int i = 0; i < num; i++) {//num만큼 돌리는 코드
 		scanf("%s", test);
-		for (int j = 0; test[j] != EOF; j++) {
+		for (int j = 0; test[j] != NULL; j++) {
 			if (test[j] == 'O') {
 				for (int k = j; test[k] != NULL && test[k] == 'O'; k++) {//k번째 문자열 ooxoxoxox(예시)의 연속된 o 세기
 					min++;
