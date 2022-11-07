@@ -159,5 +159,17 @@
     <ClCompile Include="gmw4_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="gmw5_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gmw5_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gmw5_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gmw5_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
