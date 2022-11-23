@@ -183,5 +183,23 @@
     <ClCompile Include="gmw6_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="gmw7_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gmw7_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gmw7_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11650.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gmw8_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gmw7_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
